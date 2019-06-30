@@ -1,9 +1,9 @@
 {
-    "name": "raulr/google-play-scraper",
+    "name": "ibrahimch/google-play-scraper",
     "type": "library",
     "description": "A PHP scraper to get app data from Google Play",
     "keywords": ["google play", "scraper"],
-    "homepage": "https://github.com/raulr/google-play-scraper",
+    "homepage": "https://github.com/ibrahimch/google-play-scraper",
     "license": "MIT",
     "require": {
         "fabpot/goutte": "^3.0"
